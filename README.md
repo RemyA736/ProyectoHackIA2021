@@ -15,3 +15,6 @@ Nuestra propuesta facilita la organización y unificación de los datos a nivel 
   2. python3 -m pip install -r requirements.txt
   3. python3 -m Orange.canvas
   4. Abrir archivos según necesidad (se está trabajando con una versión unificada del software).
+
+## Pitch del Proyecto
+[Pitch](assets/Pitch.pdf)
