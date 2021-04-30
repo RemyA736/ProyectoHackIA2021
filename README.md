@@ -2,6 +2,7 @@
 Primer prototitpo de solución al problema del abandono escolar con IA. Como parte del Hackathon IA 2021, organizado por fAIr LAC Jaliso.
 
 Equipo: Riders on The Storm
+
 Nombre del proyecto: Análisis automático de factores incidentes en la deserción a nivel secundaria
 
 Descripción breve:
