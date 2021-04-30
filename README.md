@@ -16,5 +16,10 @@ Nuestra propuesta facilita la organización y unificación de los datos a nivel 
   3. python3 -m Orange.canvas
   4. Abrir archivos según necesidad (se está trabajando con una versión unificada del software).
 
+## Base de Datos Unificada
+Nuestro proyecto tiene como primer entregable una versión unificada que contiene información relevante de todos los archivos proporcionados. Esta base de datos unificada está organizada a nivel de escuela, de modo que cada clave+turno tiene cada una de las posibles columnas que podrían ser de utilidad para el descubrimiento de conocimiento.
+
+Si deseas utilizar la base de datos únicamente tienes que buscar el archivo: base_datos_unificada.csv
+
 ## Pitch del Proyecto
 [Pitch](assets/Pitch.pdf)
